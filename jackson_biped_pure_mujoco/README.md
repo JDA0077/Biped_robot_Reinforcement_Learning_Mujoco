@@ -42,3 +42,7 @@ python scripts/train.py
 ```bash
 python scripts/simulate.py
 ```
+
+
+https://github.com/user-attachments/assets/30aacbf4-ff1a-4f6d-9b21-e2b0655a6bab
+
