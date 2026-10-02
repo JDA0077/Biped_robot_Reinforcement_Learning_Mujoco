@@ -11,7 +11,7 @@ from jackson_biped.actuators.actuator_pd import IdentifiedActuatorPD
 
 class JacksonBipedEnv(gym.Env):
     """
-    Native MuJoCo Bipedal Locomotion Environment (No Omniverse / Isaac Lab required).
+    Native MuJoCo Bipedal Locomotion Environment 
     """
     metadata = {"render_modes": ["human", "rgb_array"], "render_fps": 50}
 
