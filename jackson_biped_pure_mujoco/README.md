@@ -5,6 +5,9 @@ A clean, standalone **MuJoCo + Gymnasium + PyTorch** framework for the **Jackson
 > **Note**: This version has **ZERO dependencies on NVIDIA Isaac Lab / Omniverse**. It runs natively on any system (macOS, Linux, Windows) with standard Python and MuJoCo.
 
 ## 📁 Project Structure
+<img width="768" height="1024" alt="WhatsApp Image 2026-10-02 at 12 18 42 AM" src="https://github.com/user-attachments/assets/f81c5e5e-9d32-45f4-ba21-98343b5657e4" />
+
+
 ```text
 jackson_biped/
 ├── jackson_biped/
